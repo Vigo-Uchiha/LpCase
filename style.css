@@ -5,16 +5,14 @@ div#masalah ul#list{
 font-family: Roboto;
 font-style: normal;
 font-weight: 300;
-font-size: 36px;
-line-height: 42px;
+font-size: 1.9rem;
+line-height: 35px;
 }
 div#masalah h1{
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 36px;
-    line-height: 42px;
-
+    line-height: 40px;
     color: #000000;
 }
 div#masalah ul li{
@@ -24,8 +22,7 @@ div h1#mengapa{
     font-family: Rosarivo;
     font-style: normal;
     font-weight: normal;
-    font-size: 36px;
-    line-height: 51px;
+    line-height: 40px;
 
     color: #000000;
 }
@@ -36,7 +33,7 @@ a#tombolpesan{
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 2rem;
     line-height: 42px;
     text-align: center;
     color: #FFFFFF;
@@ -57,7 +54,7 @@ div#kartupelayanan{
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 1rem;
     line-height: 16px;
 
     color: #000000;
